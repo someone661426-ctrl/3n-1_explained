@@ -25,6 +25,7 @@ If the one’s digit is odd:
 
 Multiply the whole number by 3, then add 1.
 For example, 15’s one’s digit is 5 (which is odd), so you do 3 × 15 + 1 = 46.
+46 will keep going until it reaches 1 , after cycling through 4,2,1.
 Repeat:
 
 Take your new number and repeat the process: look at the one’s digit again, check if it’s even or odd, and do the corresponding operation.
@@ -39,5 +40,11 @@ Starting with 14:
 22’s one’s digit is 2 (even), so 22 ÷ 2 = 11.
 11’s one’s digit is 1 (odd), so 3 × 11 + 1 = 34.
 ...keep going until you reach 1, then cycle through 4, 2, 1.
+
+ Starting with 4, 14'S one's digit:
+4÷2=2
+2÷2=1
+Hence, cycling through 4,2,1 before reaching 1.
+
 Starting with 0:
 0 is considered to immediately go to the 4 → 2 → 1 cycle.
