@@ -11,6 +11,7 @@ So, for 0, you just say: “0 goes to 4, then 2, then 1, and then repeats foreve
 For any other number:
 
 Look at the last digit of the number (the one’s digit).
+As it determines if the number is even or odd.
 For example, if your number is 14, the one’s digit is 4. If your number is 15, the one’s digit is 5.
 
 Check if the one’s digit is even or odd:
